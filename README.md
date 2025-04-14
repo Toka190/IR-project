@@ -6,7 +6,7 @@ This project is a **Python-based Information Retrieval (IR)** system that implem
 
 ### 🛠️ **Technologies**:
 - **Programming Language**: Python
-- **Libraries**: NLTK (Natural Language Toolkit)
+- **Libraries**: NLTK (Natural Language Toolkit), pandas , numpy
 - **Techniques Implemented**: Tokenization, Stemming, Indexing, Phrase Query
 
 ---
